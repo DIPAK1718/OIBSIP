@@ -8,7 +8,7 @@ This repository contains all the tasks completed during my AICTE Oasis Infobyte 
 
 ### Task 1: Iris Flower Classification
 - Built a machine learning model to classify iris flowers into different species. 
-- Algorithm: Logistic Regression
+- Algorithm: Logistic Regression 
 - Accuracy: 100%
 
 ---
