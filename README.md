@@ -1,7 +1,6 @@
 # OIBSIP Internship Projects
  
 This repository contains all the tasks completed during my AICTE Oasis Infobyte Data Science Internship. 
-
 ---
 
 ## Projects 
@@ -15,7 +14,7 @@ This repository contains all the tasks completed during my AICTE Oasis Infobyte 
 
 ### Task 2: Unemployment Analysis
 - Analyzed unemployment rate during Covid-19.
-- Used data visualization to identify trends and patterns.
+- Used data visualization to identify trends and patterns.b
  
 ---
  
