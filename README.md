@@ -1,7 +1,7 @@
 # OIBSIP Internship Projects
  
 This repository contains all the tasks completed during my AICTE Oasis Infobyte Data Science Internship. 
---- 
+---  
  
 ## Projects   
 
