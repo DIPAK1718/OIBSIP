@@ -18,7 +18,7 @@ This repository contains all the tasks completed during my AICTE Oasis Infobyte 
      
 ---   
  
-### Task 3: Car Price Prediction
+### Task 3: Car Price Prediction 
 - Predicted car prices using machine learning.
 - Algorithm: Linear Regression
 - Evaluation: Mean Absolute Error (MAE)
